@@ -1,15 +1,20 @@
 # Android-ScalableImageView
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-Android ImageView having extra sacle types.
+*__VideoView having same scale feature is also [available here](https://github.com/yqritc/Android-ScalableVideoView)__*  
+
+Android ImageView having extra scale types.
 
 ![Sample](/sample/sample.gif)
+
+# Sample (Coming Soon)
+<a href="https://play.google.com/store/apps/details?id=com.yqritc.scalableimageview.sample"><img src="http://developer.android.com/images/brand/en_app_rgb_wo_60.png"/></a>
 
 # Release Note
 
 [Release Note] (https://github.com/yqritc/Android-ScalableImageView/releases)
 
-# Gradle(Comming soon)
+# Gradle (Comming Soon)
 ```
 repositories {
     jcenter()
