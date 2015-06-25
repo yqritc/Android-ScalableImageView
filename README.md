@@ -8,7 +8,7 @@ Android ImageView having extra scale types.
 
 ![Sample](/sample/sample.gif)
 
-# Sample (Coming Soon)
+# Sample 
 <a href="https://play.google.com/store/apps/details?id=com.yqritc.scalableimageview.sample"><img src="http://developer.android.com/images/brand/en_app_rgb_wo_60.png"/></a>
 
 # Release Note
