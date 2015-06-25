@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Download](https://api.bintray.com/packages/yqritc/maven/android-scalableimageview/images/download.svg)](https://bintray.com/yqritc/maven/android-scalableimageview/_latestVersion)
 
-*__VideoView having same scale feature is also [available here](https://github.com/yqritc/Android-ScalableVideoView)__*  
+*__If you want to the same scale feature for video. [Check out ScalableVideoVIew](https://github.com/yqritc/Android-ScalableVideoView)__*  
 
 Android ImageView having extra scale types.
 
