@@ -15,7 +15,7 @@ Android ImageView having extra scale types.
 
 [Release Note] (https://github.com/yqritc/Android-ScalableImageView/releases)
 
-# Gradle (Comming Soon)
+# Gradle
 ```
 repositories {
     jcenter()
