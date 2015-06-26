@@ -26,40 +26,35 @@ dependencies {
 }
 ```
 
-# Support Scale Types  
+# Support Scale Types
 
-### Scale to fit 
-- fitXY
-- fitStart
-- fitCenter
-- fitEnd
-
-### No Scale
-- leftTop
-- leftCenter
-- leftBottom
-- centerTop
-- center
-- centerBottom
-- rightTop
-- rightCenter
-- rightBottom
-
-### Crop
-- leftTopCrop
-- leftCenterCrop
-- leftBottomCrop
-- centerTopCrop
-- centerCrop
-- centerBottomCrop
-- rightTopCrop
-- rightCenterCrop
-- rightBottomCrop
-
-### Scale Inside
-- startInside
-- centerInside
-- endInside
+| ScaleType         | ImageView | ScalableImageView |
+|:------------------|:---------:|:-----------------:|
+| fitXY             |◯|◯|
+| fitStart          |◯|◯|
+| fitCenter         |◯|◯|
+| fitEnd            |◯|◯|
+| leftTop           |X|◯|
+| leftCenter        |X|◯|
+| leftBottom        |X|◯|
+| centerTop         |X|◯|
+| center            |◯|◯|
+| centerBottom      |X|◯|
+| rightTop          |X|◯|
+| rightCenter       |X|◯|
+| rightBottom       |X|◯|
+| leftTopCrop       |X|◯|
+| leftCenterCrop    |X|◯|
+| leftBottomCrop    |X|◯|
+| centerTopCrop     |X|◯|
+| centerCrop        |◯|◯|
+| centerBottomCrop  |X|◯|
+| rightTopCrop      |X|◯|
+| rightCenterCrop   |X|◯|
+| rightBottomCrop   |X|◯|
+| startInside       |X|◯|
+| centerInside      |◯|◯|
+| endInside         |X|◯|
 
 
 # Usage
